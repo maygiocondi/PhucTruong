@@ -5,8 +5,8 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Word");
-            Console.WriteLine("Tran Phuc Truong");
+            DateTime LocalDate = DateTime.Now;
+            System.Console.WriteLine("DateTime Now is: " + LocalDate);
         }
     }
 }
