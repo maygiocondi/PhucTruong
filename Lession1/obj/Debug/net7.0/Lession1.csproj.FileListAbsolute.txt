@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\bin\Debug\net7.0\Lession1.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\bin\Debug\net7.0\Lession1.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\bin\Debug\net7.0\Lession1.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\bin\Debug\net7.0\Lession1.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\bin\Debug\net7.0\Lession1.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\refint\Lession1.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\Lession1.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\Lession1\obj\Debug\net7.0\ref\Lession1.dll
