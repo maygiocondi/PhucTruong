@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\bin\Debug\net7.0\ChuyenDoiTienTe.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\refint\ChuyenDoiTienTe.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ChuyenDoiTienTe.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChuyenDoiTienTe\obj\Debug\net7.0\ref\ChuyenDoiTienTe.dll
