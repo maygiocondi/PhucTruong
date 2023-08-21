@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\bin\Debug\net7.0\ChiSoBMI.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\bin\Debug\net7.0\ChiSoBMI.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\bin\Debug\net7.0\ChiSoBMI.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\bin\Debug\net7.0\ChiSoBMI.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\bin\Debug\net7.0\ChiSoBMI.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\refint\ChiSoBMI.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ChiSoBMI.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\ChiSoBMI\obj\Debug\net7.0\ref\ChiSoBMI.dll
