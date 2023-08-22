@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\bin\Debug\net7.0\PTBac2.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\bin\Debug\net7.0\PTBac2.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\bin\Debug\net7.0\PTBac2.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\bin\Debug\net7.0\PTBac2.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\bin\Debug\net7.0\PTBac2.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\refint\PTBac2.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\PTBac2.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\PTBac2\obj\Debug\net7.0\ref\PTBac2.dll
