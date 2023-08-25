@@ -16,6 +16,7 @@ namespace SuDungToanTu
 
             float area = w * h;
             Console.WriteLine("Area is: " + area);
+            
         }
     }
 }
