@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\bin\Debug\net7.0\BT12. TinhTongDuongCheoChinh.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\bin\Debug\net7.0\BT12. TinhTongDuongCheoChinh.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\bin\Debug\net7.0\BT12. TinhTongDuongCheoChinh.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\bin\Debug\net7.0\BT12. TinhTongDuongCheoChinh.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\bin\Debug\net7.0\BT12. TinhTongDuongCheoChinh.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\refint\BT12. TinhTongDuongCheoChinh.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\BT12. TinhTongDuongCheoChinh.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT12. TinhTongDuongCheoChinh\obj\Debug\net7.0\ref\BT12. TinhTongDuongCheoChinh.dll

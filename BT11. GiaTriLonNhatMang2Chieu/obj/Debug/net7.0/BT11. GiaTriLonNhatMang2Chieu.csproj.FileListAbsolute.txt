@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\bin\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\bin\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\bin\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\bin\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\bin\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\refint\BT11. GiaTriLonNhatMang2Chieu.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\BT11. GiaTriLonNhatMang2Chieu.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT11. GiaTriLonNhatMang2Chieu\obj\Debug\net7.0\ref\BT11. GiaTriLonNhatMang2Chieu.dll
