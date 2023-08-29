@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\bin\Debug\net7.0\06.1-ChuyenDoiNhietDo.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\bin\Debug\net7.0\06.1-ChuyenDoiNhietDo.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\bin\Debug\net7.0\06.1-ChuyenDoiNhietDo.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\bin\Debug\net7.0\06.1-ChuyenDoiNhietDo.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\bin\Debug\net7.0\06.1-ChuyenDoiNhietDo.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\refint\06.1-ChuyenDoiNhietDo.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\06.1-ChuyenDoiNhietDo.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.1-ChuyenDoiNhietDo\obj\Debug\net7.0\ref\06.1-ChuyenDoiNhietDo.dll

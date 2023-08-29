@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\bin\Debug\net7.0\BT8.HienThiCacLoaiHinh.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\bin\Debug\net7.0\BT8.HienThiCacLoaiHinh.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\bin\Debug\net7.0\BT8.HienThiCacLoaiHinh.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\bin\Debug\net7.0\BT8.HienThiCacLoaiHinh.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\bin\Debug\net7.0\BT8.HienThiCacLoaiHinh.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\refint\BT8.HienThiCacLoaiHinh.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\BT8.HienThiCacLoaiHinh.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\BT8.HienThiCacLoaiHinh\obj\Debug\net7.0\ref\BT8.HienThiCacLoaiHinh.dll
