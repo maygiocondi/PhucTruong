@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\bin\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\bin\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\bin\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\bin\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\bin\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\refint\06.5-SoLanXuatHienCuaKyTu.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\06.5-SoLanXuatHienCuaKyTu.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\06.5-SoLanXuatHienCuaKyTu\obj\Debug\net7.0\ref\06.5-SoLanXuatHienCuaKyTu.dll
