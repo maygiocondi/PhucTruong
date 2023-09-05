@@ -1,0 +1,28 @@
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\bin\Debug\net7.0\SystemTime.exe
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\bin\Debug\net7.0\SystemTime.deps.json
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\bin\Debug\net7.0\SystemTime.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\bin\Debug\net7.0\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\bin\Debug\net7.0\SystemTime.pdb
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\refint\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.pdb
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\SystemTime.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\CodeGym\SystemTime\obj\Debug\net7.0\ref\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\bin\Debug\net7.0\SystemTime.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\bin\Debug\net7.0\SystemTime.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\bin\Debug\net7.0\SystemTime.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\bin\Debug\net7.0\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\bin\Debug\net7.0\SystemTime.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\refint\SystemTime.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\SystemTime.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\07.1-RanSanMoi\obj\Debug\net7.0\ref\SystemTime.dll
