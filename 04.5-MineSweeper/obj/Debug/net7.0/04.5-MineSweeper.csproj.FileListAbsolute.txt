@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\bin\Debug\net7.0\04.5-MineSweeper.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\bin\Debug\net7.0\04.5-MineSweeper.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\bin\Debug\net7.0\04.5-MineSweeper.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\bin\Debug\net7.0\04.5-MineSweeper.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\bin\Debug\net7.0\04.5-MineSweeper.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\refint\04.5-MineSweeper.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\04.5-MineSweeper.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.5-MineSweeper\obj\Debug\net7.0\ref\04.5-MineSweeper.dll
