@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\bin\Debug\net7.0\04.6-ThemPhanTuVaoMang.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\bin\Debug\net7.0\04.6-ThemPhanTuVaoMang.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\bin\Debug\net7.0\04.6-ThemPhanTuVaoMang.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\bin\Debug\net7.0\04.6-ThemPhanTuVaoMang.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\bin\Debug\net7.0\04.6-ThemPhanTuVaoMang.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\refint\04.6-ThemPhanTuVaoMang.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\04.6-ThemPhanTuVaoMang.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\04.6-ThemPhanTuVaoMang\obj\Debug\net7.0\ref\04.6-ThemPhanTuVaoMang.dll
