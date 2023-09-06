@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\bin\Debug\net7.0\03.3-KiemTraSoNguyenTo.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\bin\Debug\net7.0\03.3-KiemTraSoNguyenTo.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\bin\Debug\net7.0\03.3-KiemTraSoNguyenTo.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\bin\Debug\net7.0\03.3-KiemTraSoNguyenTo.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\bin\Debug\net7.0\03.3-KiemTraSoNguyenTo.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\refint\03.3-KiemTraSoNguyenTo.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\03.3-KiemTraSoNguyenTo.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\03.3-KiemTraSoNguyenTo\obj\Debug\net7.0\ref\03.3-KiemTraSoNguyenTo.dll
