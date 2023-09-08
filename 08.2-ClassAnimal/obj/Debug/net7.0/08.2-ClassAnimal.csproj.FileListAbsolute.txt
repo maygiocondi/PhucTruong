@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\bin\Debug\net7.0\08.2-ClassAnimal.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\bin\Debug\net7.0\08.2-ClassAnimal.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\bin\Debug\net7.0\08.2-ClassAnimal.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\bin\Debug\net7.0\08.2-ClassAnimal.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\bin\Debug\net7.0\08.2-ClassAnimal.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\refint\08.2-ClassAnimal.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\08.2-ClassAnimal.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.2-ClassAnimal\obj\Debug\net7.0\ref\08.2-ClassAnimal.dll
