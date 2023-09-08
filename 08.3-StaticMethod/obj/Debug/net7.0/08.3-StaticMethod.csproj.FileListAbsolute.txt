@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\bin\Debug\net7.0\08.3-StaticMethod.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\bin\Debug\net7.0\08.3-StaticMethod.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\bin\Debug\net7.0\08.3-StaticMethod.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\bin\Debug\net7.0\08.3-StaticMethod.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\bin\Debug\net7.0\08.3-StaticMethod.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\refint\08.3-StaticMethod.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\08.3-StaticMethod.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\08.3-StaticMethod\obj\Debug\net7.0\ref\08.3-StaticMethod.dll
