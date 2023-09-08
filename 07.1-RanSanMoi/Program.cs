@@ -6,118 +6,85 @@ namespace SystemTime
     class Program
     {
         static bool isGameover = true;
+        const int WIDTH = 20;
+        const int HEIGH = 8;
+
+        static int foodPosX;
+        static int foodPosY;
 
         static void Main(string[] arg)
         {
             Random rand = new Random();
-            int x = 2;
-            int y = 5;
+            int snakePosX = 2;
+            int snakePosY = 5;
 
-            int x1 = rand.Next(1, 17);
-            int y1 = rand.Next(1, 7);
-
-            VeManHinh(x, y, x1, y1, rand);
+            foodPosX = rand.Next(1, WIDTH - 1);
+            foodPosY = rand.Next(1, HEIGH - 1);
+            Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
 
             do
             {
                 ConsoleKeyInfo keyInfo = Console.ReadKey();
                 if (keyInfo.Key == ConsoleKey.UpArrow)
                 {
-                    y--;
-                    if (x == x1 - 1 && y == y1)
-                    {
-                        x1 = rand.Next(1, 18);
-                        y1 = rand.Next(1, 8);
-                        VeManHinh(x, y, x1, y1, rand);
-                    }
-                    VeManHinh(x, y, x1, y1, rand);
+                    snakePosY--;
+                    CheckPosFood(snakePosX, snakePosY, foodPosX, foodPosY, rand);
                 }
                 else if (keyInfo.Key == ConsoleKey.DownArrow)
                 {
-                    y++;
-                    if (x == x1 - 1 && y == y1)
-                    {
-                        x1 = rand.Next(1, 18);
-                        y1 = rand.Next(1, 8);
-                        VeManHinh(x, y, x1, y1, rand);
-                    }
-                    VeManHinh(x, y, x1, y1, rand);
+                    snakePosY++;
+                    CheckPosFood(snakePosX, snakePosY, foodPosX, foodPosY, rand);
                 }
                 else if (keyInfo.Key == ConsoleKey.LeftArrow)
                 {
-                    x--;
-                    if (x == x1 - 1 && y == y1)
+                    snakePosX--;
+                    if (snakePosX == foodPosX && snakePosY == foodPosY)
                     {
-                        x1 = rand.Next(1, 18);
-                        y1 = rand.Next(1, 8);
-                        VeManHinh(x, y, x1, y1, rand);
+                        do
+                        {
+                            foodPosX = rand.Next(1, WIDTH - 1);
+                            foodPosY = rand.Next(1, HEIGH - 1);
+                            Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
+                        } while (foodPosX != snakePosX && foodPosY != snakePosY);
                     }
-                    VeManHinh(x, y, x1, y1, rand);
+                    Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
                 }
                 else if (keyInfo.Key == ConsoleKey.RightArrow)
                 {
-                    x++;
-                    if (x == x1 - 1 && y == y1)
+                    snakePosX++;
+                    if (snakePosX == foodPosX && snakePosY == foodPosY)
                     {
-                        x1 = rand.Next(1, 18);
-                        y1 = rand.Next(1, 8);
-                        VeManHinh(x, y, x1, y1, rand);
+                        do
+                        {
+                            foodPosX = rand.Next(1, WIDTH - 1);
+                            foodPosY = rand.Next(1, HEIGH - 1);
+                            Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
+                        } while (foodPosX != snakePosX && foodPosY != snakePosY);
                     }
-                    VeManHinh(x, y, x1, y1, rand);
+                    Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
                 }
-                SetGameover(x, y);
+                SetGameover(snakePosX, snakePosY, WIDTH - 1, HEIGH);
             } while (isGameover);
 
-            Console.Clear();
-            int width = 20;
-            int height = 8;
-
-            Console.BackgroundColor = ConsoleColor.Red;
-            for (int i = 0; i < width; i++)
-            {
-                Console.SetCursorPosition(i, 0);
-                Console.WriteLine("#");
-            }
-
-            for (int i = 0; i < width; i++)
-            {
-                Console.SetCursorPosition(i, height);
-                Console.WriteLine("#");
-            }
-
-            for (int i = 1; i < height + 1; i++)
-            {
-                Console.SetCursorPosition(0, i);
-                Console.WriteLine("#");
-            }
-
-            for (int i = 1; i < height + 1; i++)
-            {
-                Console.SetCursorPosition(width - 1, i);
-                Console.Write('#');
-            }
-
+            Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
             Console.BackgroundColor = ConsoleColor.Green;
             Console.SetCursorPosition(1, 1);
             Console.Write("****Game Over****");
             Console.SetCursorPosition(0, 9);
         }
 
-        static bool SetGameover(int x, int y)
+        static bool SetGameover(int x, int y, int width, int heigh)
         {
-            if (y <= 0 || y >= 8 || x <= 0 || x >= 18)
+            if (y <= 0 || y >= heigh || x <= 0 || x >= width)
             {
                 isGameover = false;
             }
             return isGameover;
         }
 
-        static void VeManHinh(int x, int y, int x1, int y1, Random rand)
+        static void Render(int width, int heigh, int snakePosX, int snakePosY, int foodPosX, int foodPosY, Random rand)
         {
             Console.Clear();
-            int width = 20;
-            int height = 8;
-
             Console.BackgroundColor = ConsoleColor.Red;
             for (int i = 0; i < width; i++)
             {
@@ -127,32 +94,46 @@ namespace SystemTime
 
             for (int i = 0; i < width; i++)
             {
-                Console.SetCursorPosition(i, height);
+                Console.SetCursorPosition(i, heigh);
                 Console.WriteLine("#");
             }
 
-            for (int i = 1; i < height + 1; i++)
+            for (int i = 1; i < heigh + 1; i++)
             {
                 Console.SetCursorPosition(0, i);
                 Console.WriteLine("#");
             }
 
-            for (int i = 1; i < height + 1; i++)
+            for (int i = 1; i < heigh + 1; i++)
             {
                 Console.SetCursorPosition(width - 1, i);
                 Console.Write('#');
             }
 
             Console.BackgroundColor = ConsoleColor.Green;
-            Console.SetCursorPosition(x, y);
-            Console.Write("  ");
+            Console.SetCursorPosition(snakePosX, snakePosY);
+            Console.Write(" ");
 
             Console.BackgroundColor = ConsoleColor.Yellow;
-            Console.SetCursorPosition(x1, y1);
+            Console.SetCursorPosition(foodPosX, foodPosY);
             Console.Write(" ");
 
             Console.SetCursorPosition(0, 9);
             Console.ResetColor();
+        }
+
+        static void CheckPosFood(int snakePosX, int snakePosY, int foodPosX, int foodPosY, Random rand)
+        {
+            if (snakePosX == foodPosX && snakePosY == foodPosY)
+            {
+                do
+                {
+                    foodPosX = rand.Next(1, WIDTH - 1);
+                    foodPosY = rand.Next(1, HEIGH - 1);
+                    Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
+                } while (foodPosX == snakePosX && foodPosY == snakePosY);
+            }
+            Render(WIDTH, HEIGH, snakePosX, snakePosY, foodPosX, foodPosY, rand);
         }
     }
 
