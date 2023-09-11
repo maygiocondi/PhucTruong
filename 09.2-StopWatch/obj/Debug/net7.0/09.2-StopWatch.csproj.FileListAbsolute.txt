@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\bin\Debug\net7.0\09.2-StopWatch.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\bin\Debug\net7.0\09.2-StopWatch.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\bin\Debug\net7.0\09.2-StopWatch.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\bin\Debug\net7.0\09.2-StopWatch.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\bin\Debug\net7.0\09.2-StopWatch.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\refint\09.2-StopWatch.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\09.2-StopWatch.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.2-StopWatch\obj\Debug\net7.0\ref\09.2-StopWatch.dll
