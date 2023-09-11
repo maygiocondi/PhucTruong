@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\bin\Debug\net7.0\09.1-FanClass.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\bin\Debug\net7.0\09.1-FanClass.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\bin\Debug\net7.0\09.1-FanClass.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\bin\Debug\net7.0\09.1-FanClass.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\bin\Debug\net7.0\09.1-FanClass.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\refint\09.1-FanClass.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\09.1-FanClass.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.1-FanClass\obj\Debug\net7.0\ref\09.1-FanClass.dll

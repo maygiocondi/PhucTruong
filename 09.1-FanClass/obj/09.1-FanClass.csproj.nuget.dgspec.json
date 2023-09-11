@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\07.1-RanSanMoi\\SystemTime.csproj": {}
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\09.1-FanClass\\09.1-FanClass.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\07.1-RanSanMoi\\SystemTime.csproj": {
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\09.1-FanClass\\09.1-FanClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\07.1-RanSanMoi\\SystemTime.csproj",
-        "projectName": "SystemTime",
-        "projectPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\07.1-RanSanMoi\\SystemTime.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\09.1-FanClass\\09.1-FanClass.csproj",
+        "projectName": "09.1-FanClass",
+        "projectPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\09.1-FanClass\\09.1-FanClass.csproj",
         "packagesPath": "C:\\Users\\Truong Phuc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\07.1-RanSanMoi\\obj\\",
+        "outputPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\09.1-FanClass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
