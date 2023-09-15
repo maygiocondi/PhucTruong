@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.1-LopAnimalVaInterfaceEdible\\10.1-LopAnimalVaInterfaceEdible.csproj": {}
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.2-InterfaceIComparable\\09.3-CacDoiTuongHinhHoc.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.1-LopAnimalVaInterfaceEdible\\10.1-LopAnimalVaInterfaceEdible.csproj": {
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.2-InterfaceIComparable\\09.3-CacDoiTuongHinhHoc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.1-LopAnimalVaInterfaceEdible\\10.1-LopAnimalVaInterfaceEdible.csproj",
-        "projectName": "10.1-LopAnimalVaInterfaceEdible",
-        "projectPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.1-LopAnimalVaInterfaceEdible\\10.1-LopAnimalVaInterfaceEdible.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.2-InterfaceIComparable\\09.3-CacDoiTuongHinhHoc.csproj",
+        "projectName": "09.3-CacDoiTuongHinhHoc",
+        "projectPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.2-InterfaceIComparable\\09.3-CacDoiTuongHinhHoc.csproj",
         "packagesPath": "C:\\Users\\Truong Phuc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.1-LopAnimalVaInterfaceEdible\\obj\\",
+        "outputPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\10.2-InterfaceIComparable\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",
