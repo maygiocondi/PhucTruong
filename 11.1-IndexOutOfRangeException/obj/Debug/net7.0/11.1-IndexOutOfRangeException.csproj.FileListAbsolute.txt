@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\bin\Debug\net7.0\11.1-IndexOutOfRangeException.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\bin\Debug\net7.0\11.1-IndexOutOfRangeException.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\bin\Debug\net7.0\11.1-IndexOutOfRangeException.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\bin\Debug\net7.0\11.1-IndexOutOfRangeException.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\bin\Debug\net7.0\11.1-IndexOutOfRangeException.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\refint\11.1-IndexOutOfRangeException.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\11.1-IndexOutOfRangeException.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\11.1-IndexOutOfRangeException\obj\Debug\net7.0\ref\11.1-IndexOutOfRangeException.dll
