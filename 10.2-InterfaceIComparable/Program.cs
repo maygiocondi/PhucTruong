@@ -2,21 +2,22 @@
 {
     static void Main(string[] agrs)
     {
-        ComperableCircle[] circles = new ComperableCircle[3];
-        circles[0] = new ComperableCircle(3.6);
-        circles[1] = new ComperableCircle();
-        circles[2] = new ComperableCircle(3.5, "indigo", false);
+        Circle[] circles = new Circle[3];
+        circles[0] = new Circle(3.6);
+        circles[1] = new Circle();
+        circles[2] = new Circle(3.5, "indigo", false);
 
         Console.WriteLine("Pre-sorted:");
-        foreach (ComperableCircle circle in circles)
+        foreach (Circle circle in circles)
         {
             Console.WriteLine(circle);
         }
 
-        Array.Sort(circles);
+        IComparer<Circle> circleComparator = new CircleComparator();
+        Array.Sort(circles, circleComparator);
 
         Console.WriteLine("After-sorted:");
-        foreach (ComperableCircle circle in circles)
+        foreach (Circle circle in circles)
         {
             Console.WriteLine(circle);
         }
