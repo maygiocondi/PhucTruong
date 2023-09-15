@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\bin\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\bin\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\bin\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\bin\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\bin\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\refint\09.5-LopPoint2DVaLopPoint3D.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\09.5-LopPoint2DVaLopPoint3D.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.5-LopPoint2DVaLopPoint3D\obj\Debug\net7.0\ref\09.5-LopPoint2DVaLopPoint3D.dll

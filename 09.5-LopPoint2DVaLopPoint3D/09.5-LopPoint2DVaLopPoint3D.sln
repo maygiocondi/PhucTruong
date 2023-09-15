@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.5-LopPoint2DVaLopPoint3D", "09.5-LopPoint2DVaLopPoint3D.csproj", "{C688968D-4B79-4673-A4E5-CA1967F8C654}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C688968D-4B79-4673-A4E5-CA1967F8C654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C688968D-4B79-4673-A4E5-CA1967F8C654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C688968D-4B79-4673-A4E5-CA1967F8C654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C688968D-4B79-4673-A4E5-CA1967F8C654}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24340B31-2E0C-4DBA-8724-2933B46B2B94}
+	EndGlobalSection
+EndGlobal
