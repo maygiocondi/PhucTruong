@@ -13,7 +13,7 @@ public class Circle : Shape
         this.radius = radius;
     }
 
-    public Circle(double radius, String color, bool filled) : base(color, filled)
+    public Circle(double radius, string color, bool filled) : base(color, filled)
     {
         this.radius = radius;
     }

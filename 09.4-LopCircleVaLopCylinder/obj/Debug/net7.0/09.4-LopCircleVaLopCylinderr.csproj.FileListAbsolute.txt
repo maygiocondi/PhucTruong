@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\bin\Debug\net7.0\09.4-LopCircleVaLopCylinderr.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\bin\Debug\net7.0\09.4-LopCircleVaLopCylinderr.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\bin\Debug\net7.0\09.4-LopCircleVaLopCylinderr.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\bin\Debug\net7.0\09.4-LopCircleVaLopCylinderr.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\bin\Debug\net7.0\09.4-LopCircleVaLopCylinderr.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\refint\09.4-LopCircleVaLopCylinderr.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\09.4-LopCircleVaLopCylinderr.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\09.4-LopCircleVaLopCylinder\obj\Debug\net7.0\ref\09.4-LopCircleVaLopCylinderr.dll
