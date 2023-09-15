@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\bin\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\bin\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\bin\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\bin\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\bin\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\refint\10.1-LopAnimalVaInterfaceEdible.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\10.1-LopAnimalVaInterfaceEdible.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\10.1-LopAnimalVaInterfaceEdible\obj\Debug\net7.0\ref\10.1-LopAnimalVaInterfaceEdible.dll
