@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\11.1-IndexOutOfRangeException\\11.1-IndexOutOfRangeException.csproj": {}
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.1-TinhTongCacSoTrongFileText\\12.1-TinhTongCacSoTrongFileText.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\11.1-IndexOutOfRangeException\\11.1-IndexOutOfRangeException.csproj": {
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.1-TinhTongCacSoTrongFileText\\12.1-TinhTongCacSoTrongFileText.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\11.1-IndexOutOfRangeException\\11.1-IndexOutOfRangeException.csproj",
-        "projectName": "11.1-IndexOutOfRangeException",
-        "projectPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\11.1-IndexOutOfRangeException\\11.1-IndexOutOfRangeException.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.1-TinhTongCacSoTrongFileText\\12.1-TinhTongCacSoTrongFileText.csproj",
+        "projectName": "12.1-TinhTongCacSoTrongFileText",
+        "projectPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.1-TinhTongCacSoTrongFileText\\12.1-TinhTongCacSoTrongFileText.csproj",
         "packagesPath": "C:\\Users\\Truong Phuc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\11.1-IndexOutOfRangeException\\obj\\",
+        "outputPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.1-TinhTongCacSoTrongFileText\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",

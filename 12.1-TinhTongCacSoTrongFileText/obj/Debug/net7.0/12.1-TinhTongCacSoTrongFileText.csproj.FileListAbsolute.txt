@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\bin\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\bin\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\bin\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\bin\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\bin\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\refint\12.1-TinhTongCacSoTrongFileText.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\12.1-TinhTongCacSoTrongFileText.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.1-TinhTongCacSoTrongFileText\obj\Debug\net7.0\ref\12.1-TinhTongCacSoTrongFileText.dll
