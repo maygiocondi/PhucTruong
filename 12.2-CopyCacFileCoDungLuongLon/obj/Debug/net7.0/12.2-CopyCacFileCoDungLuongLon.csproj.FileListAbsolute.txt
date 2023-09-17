@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\bin\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\bin\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\bin\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\bin\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\bin\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\refint\12.2-CopyCacFileCoDungLuongLon.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\12.2-CopyCacFileCoDungLuongLon.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.2-CopyCacFileCoDungLuongLon\obj\Debug\net7.0\ref\12.2-CopyCacFileCoDungLuongLon.dll
