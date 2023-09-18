@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.3-DocGhiFileXML\\12.3-DocGhiFileXML.csproj": {}
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.4-DocFileCSV\\12.4-DocFileCSV.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.3-DocGhiFileXML\\12.3-DocGhiFileXML.csproj": {
+    "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.4-DocFileCSV\\12.4-DocFileCSV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.3-DocGhiFileXML\\12.3-DocGhiFileXML.csproj",
-        "projectName": "12.3-DocGhiFileXML",
-        "projectPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.3-DocGhiFileXML\\12.3-DocGhiFileXML.csproj",
+        "projectUniqueName": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.4-DocFileCSV\\12.4-DocFileCSV.csproj",
+        "projectName": "12.4-DocFileCSV",
+        "projectPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.4-DocFileCSV\\12.4-DocFileCSV.csproj",
         "packagesPath": "C:\\Users\\Truong Phuc\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.3-DocGhiFileXML\\obj\\",
+        "outputPath": "C:\\Users\\Truong Phuc\\Desktop\\New folder\\PhucTruong\\12.4-DocFileCSV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Truong Phuc\\AppData\\Roaming\\NuGet\\NuGet.Config",

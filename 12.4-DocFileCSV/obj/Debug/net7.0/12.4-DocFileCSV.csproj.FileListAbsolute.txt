@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\bin\Debug\net7.0\12.4-DocFileCSV.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\bin\Debug\net7.0\12.4-DocFileCSV.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\bin\Debug\net7.0\12.4-DocFileCSV.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\bin\Debug\net7.0\12.4-DocFileCSV.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\bin\Debug\net7.0\12.4-DocFileCSV.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\refint\12.4-DocFileCSV.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\12.4-DocFileCSV.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.4-DocFileCSV\obj\Debug\net7.0\ref\12.4-DocFileCSV.dll
