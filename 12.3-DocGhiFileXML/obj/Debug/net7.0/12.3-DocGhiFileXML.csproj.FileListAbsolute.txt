@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\bin\Debug\net7.0\12.3-DocGhiFileXML.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\bin\Debug\net7.0\12.3-DocGhiFileXML.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\bin\Debug\net7.0\12.3-DocGhiFileXML.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\bin\Debug\net7.0\12.3-DocGhiFileXML.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\bin\Debug\net7.0\12.3-DocGhiFileXML.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\refint\12.3-DocGhiFileXML.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\12.3-DocGhiFileXML.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\12.3-DocGhiFileXML\obj\Debug\net7.0\ref\12.3-DocGhiFileXML.dll
