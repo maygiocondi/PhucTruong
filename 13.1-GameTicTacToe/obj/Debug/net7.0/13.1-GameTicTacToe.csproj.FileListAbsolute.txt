@@ -1,0 +1,14 @@
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\bin\Debug\net7.0\13.1-GameTicTacToe.exe
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\bin\Debug\net7.0\13.1-GameTicTacToe.deps.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\bin\Debug\net7.0\13.1-GameTicTacToe.runtimeconfig.json
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\bin\Debug\net7.0\13.1-GameTicTacToe.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\bin\Debug\net7.0\13.1-GameTicTacToe.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.AssemblyInfoInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.AssemblyInfo.cs
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\refint\13.1-GameTicTacToe.dll
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.pdb
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\13.1-GameTicTacToe.genruntimeconfig.cache
+C:\Users\Truong Phuc\Desktop\New folder\PhucTruong\13.1-GameTicTacToe\obj\Debug\net7.0\ref\13.1-GameTicTacToe.dll
