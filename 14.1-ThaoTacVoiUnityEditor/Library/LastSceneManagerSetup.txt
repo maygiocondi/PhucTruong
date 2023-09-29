@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Auto.unity
+- path: Assets/Scenes/Lesson3 Auto Drive.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
