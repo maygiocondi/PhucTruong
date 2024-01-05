@@ -1,38 +1,55 @@
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
+using UnityEngine.EventSystems;
 using UnityEngine;
 using UnityEngine.AI;
+using static UnityEngine.GraphicsBuffer;
+using Unity.Mathematics;
+using Unity.Burst.CompilerServices;
 
 public class Movementvers1 : MonoBehaviour
 {
-    bool isWalking;
+    public static Movementvers1 ins;
+    public Vector3 Position => transform.position;
 
+    bool isWalking;
     public Interactable focus;
 
     [SerializeField] Animator anim;
     NavMeshAgent agent;
-    Camera m_Camera;
+    public Camera cam;
     Vector3 cameraToPlayerVector;
     PlayerMotor playerMotor;
 
     void Awake()
     {
+        if (ins == null)
+        {
+            ins = this;
+        }
+        else
+        {
+            Destroy(gameObject);
+        }
+
         anim = GetComponent<Animator>();
         agent = GetComponent<NavMeshAgent>();
         playerMotor = GetComponent<PlayerMotor>();
-        m_Camera = Camera.main;
+        cam = Camera.main;
         //cameraToPlayerVector = m_Camera.transform.position - transform.position;
     }
 
     private void Start()
     {
-
+  
     }
 
     private void Update()
     {
-        if(agent.velocity.magnitude > 0)
+
+        if (EventSystem.current.IsPointerOverGameObject())
+            return;
+
+
+        if (agent.velocity.magnitude > 0)
         {
             isWalking = true;
         }
@@ -41,28 +58,22 @@ public class Movementvers1 : MonoBehaviour
             isWalking = false;
         }
         anim.SetBool("isWalking", isWalking);
+        CheckItem();
         GetInput();
         //m_Camera.transform.position = transform.position + cameraToPlayerVector;
+
     }
 
     void GetInput()
     {
+        if (PlayerCombat.ins.isAttack)
+            return;
+
         if (Input.GetMouseButton(0))
         {
-            Ray ray = m_Camera.ScreenPointToRay(Input.mousePosition);
+            Ray ray = cam.ScreenPointToRay(Input.mousePosition);
             RaycastHit hit;
 
-            if (Physics.Raycast(ray, out hit, 100, 1 << 8))
-            {
-                playerMotor.MoveToPoint(hit.point);
-                RemoveFocus();
-            }
-        }
-
-        if (Input.GetMouseButtonDown(1))
-        {
-            Ray ray = m_Camera.ScreenPointToRay(Input.mousePosition);
-            RaycastHit hit;
 
             if (Physics.Raycast(ray, out hit, 100, 1 << 8))
             {
@@ -71,6 +82,33 @@ public class Movementvers1 : MonoBehaviour
                 {
                     SetFocus(interactable);
                 }
+            }
+
+            else if (Physics.Raycast(ray, out hit, 100, 1 << 10))
+            {
+                playerMotor.MoveToPoint(hit.point);
+                RemoveFocus();
+            }
+        }
+
+    }
+
+    void CheckItem()
+    {
+        Ray ray = cam.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit;
+
+
+        if (Physics.Raycast(ray, out hit))
+        {
+            HoverItem hover = hit.collider.GetComponent<HoverItem>();
+            if (hover != null)
+            {
+                hover.ShowItemInfo();
+            }
+            else
+            {
+                HoverUI.ins.itemInfo.SetActive(false);
             }
         }
     }
@@ -88,7 +126,7 @@ public class Movementvers1 : MonoBehaviour
 
     }
 
-    void RemoveFocus()
+    public void RemoveFocus()
     {
         if (focus != null)
             focus.OnDefocused();
@@ -96,5 +134,7 @@ public class Movementvers1 : MonoBehaviour
         focus = null;
         playerMotor.StopFollowingTarget();
     }
+
+
 }
 

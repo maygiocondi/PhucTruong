@@ -5,12 +5,22 @@ using UnityEngine.AI;
 
 public class PlayerMotor : MonoBehaviour
 {
-    private Transform target;
+    static public PlayerMotor ins;
+
+    public Transform target;
     private NavMeshAgent agent;
+
+    public bool isFacingRight;
+
+    private void Awake()
+    {
+        ins = this;
+    }
 
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
+        isFacingRight = true;
     }
 
     private void Update()
@@ -18,7 +28,8 @@ public class PlayerMotor : MonoBehaviour
         if (target != null)
         {
             agent.SetDestination(target.position);
-            FaceTarget();
+            FaceTarget(target.position);
+            isFacingRight = true;
         }
     }
 
@@ -29,7 +40,7 @@ public class PlayerMotor : MonoBehaviour
 
     public void FollowTarget(Interactable newTarget)
     {
-        agent.stoppingDistance = newTarget.radius * .8f;
+        agent.stoppingDistance = newTarget.radius;
         agent.updateRotation = false;
 
         target = newTarget.transform;
@@ -43,10 +54,11 @@ public class PlayerMotor : MonoBehaviour
         target = null;
     }
 
-    private void FaceTarget()
+    public void FaceTarget(Vector3 target)
     {
-        Vector3 direction = (target.position - transform.position).normalized;
+        isFacingRight = false;
+        Vector3 direction = (target - transform.position).normalized;
         Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, 0f, direction.z));
-        transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * 5f);
+        transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * 30f);
     }
 }
